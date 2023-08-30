@@ -13,12 +13,14 @@ body {
     padding: 0%;
     background-color: #BB2649;
 }
-#logo {
+img {
     width: 30%;
-    /* float: left; */
     border-radius: 14px;
     box-shadow: 4px 3px 47px #7E2D40;
-
+}
+.kumite {
+    display: flex;
+    justify-content: center;
 }
 li, p {
     /* L'espacement entre les lignes */
