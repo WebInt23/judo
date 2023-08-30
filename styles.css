@@ -1,0 +1,53 @@
+body {
+    /* la police de caractère */
+    font-family: 'Lucida Grande', 'Roboto', sans-serif;
+    /* La taille de la police en valeur relative */
+    font-size: 1.3em;
+    /* L'espacement entre les lettres */
+    letter-spacing: 1px;
+    /* L'espacement entre les mots */
+    word-spacing: 4px;
+    /* Les marges extérieures */
+    margin: 7%;
+    /* Les marges intérieures */
+    padding: 0%;
+    background-color: #BB2649;
+}
+#logo {
+    width: 30%;
+    /* float: left; */
+    border-radius: 14px;
+    box-shadow: 4px 3px 47px #7E2D40;
+
+}
+li, p {
+    /* L'espacement entre les lignes */
+    line-height: 28px;
+}
+
+h1 {
+    text-transform: uppercase;
+    text-shadow: 4px 3px 7px #7E2D40;
+    display: inline-block;
+    width: 68%;
+    text-align: center;
+    color: #F5DADF;
+}
+p {
+    color: #4B4F54;
+    text-align: center;
+}
+
+a {
+    color: #BB2649;
+    text-indent: 1em;
+    text-decoration: none;
+}
+main{
+    margin-top: 47px;
+    border: 0px solid #F5DADF;
+    background-color: #F5DADF;
+    border-radius: 14px;
+    box-shadow: 4px 3px 47px #7E2D40;
+    padding: 4%;
+}
